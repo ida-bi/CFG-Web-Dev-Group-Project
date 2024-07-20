@@ -1,9 +1,9 @@
 # CFG Web Dev Group Project
 
 # Team: 
-Iana MAMEDE ACCIOLY
-Ida Biniek
-Thurlapati Chandralekha shivani
+Iana MAMEDE ACCIOLY<br>
+Ida Biniek<br>
+Thurlapati Chandralekha shivani<br>
 Sisi Wang
 
 The following **‘MUST HAVE’  REQUIREMENTS** is completed:
