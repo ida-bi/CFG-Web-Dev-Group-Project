@@ -1,6 +1,7 @@
 # CFG Web Dev Group Project
 
-##Teamates: 
+
+## Teamates: 
 Iana MAMEDE ACCIOLY<br>
 Ida Biniek<br>
 Thurlapati Chandralekha shivani<br>
