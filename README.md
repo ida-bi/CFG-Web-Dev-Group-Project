@@ -21,6 +21,10 @@ The following **‘MUST HAVE’  REQUIREMENTS** is completed:
 - [ ] Effective use of classes and IDs
 - [ ] JavaScript used to enable user interaction 
 
+## website wireframe
+<div>
+    <img style="max-width: 300px;" src="">
+</div>
 
 ## Video Walkthrough
 <p>Will add recorded video/gif here</p>
