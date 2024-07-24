@@ -1,0 +1,11 @@
+.nav-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: 1.563rem;
+
+}
+
+img {
+    max-width: 12.5rem;
+}
