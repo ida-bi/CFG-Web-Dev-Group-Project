@@ -1,11 +1,63 @@
-.nav-item {
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.nav-link {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
     font-size: 1.563rem;
+    color: black;
 
 }
 
-img {
-    max-width: 12.5rem;
+.carousel-inner {
+    height: 80vh;
+  
 }
+
+.carousel-image {
+    height: 100%;
+    object-fit: cover;
+ 
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #00ff2a;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+.carousel-caption h5 {
+    font-size: 1.5rem;
+}
+
+
+.carousel-caption p {
+    font-size: 1rem;
+    color: #00ff2a;
+}
+
+.form {
+    padding: 20px;
+}
+
+button {
+   padding-right: auto;
+}
+
+.legendHeader {
+    font-size: 3.75rem;
+}
+
+.formHeader {
+    font-size: 1.5rem;
+}
+
